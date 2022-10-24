@@ -4,14 +4,14 @@ int main()
 {
     float length,breadth,rarea,rperi;
     //for the rectangle 
-    printf("ENTER THE LENGTH OF RECTANGLE : ");
+    printf("ENTER THE LENGTH OF shape : ");
     scanf("%f",&length);
-    printf("ENTER THE BREDATH OF THE RECTANGLE : ");
+    printf("ENTER THE BREDATH OF THE shape : ");
     scanf("%f",&breadth);
     rperi = 2*(length+breadth);
     rarea = length*breadth;
     printf("THE PERIMETER TOF THE RECTANGLE IS : %f \n",rperi);
-    printf("THE AREA OF THE RECTANGLE IS : %f \n",rarea);
+    printf("THE AREA OF THE shape IS : %f \n",rarea);
     //now for the circle
     float radius,cir,area;
     const float pi=3.14;
