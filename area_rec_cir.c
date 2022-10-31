@@ -15,7 +15,7 @@ int main()
     //now for the circle
     float radius,cir,area;
     const float pi=3.14;
-    printf("ENTER THE RADIUS OF THE CIRCLE ");
+    printf("ENTER THE RADII OF THE CIRCLE ");
     scanf("%f",&radius);
     //now circumference 
     cir= 2*pi*radius;
