@@ -21,6 +21,6 @@ int main()
     cir= 2*pi*radius;
     area= pi*radius*radius;
     printf("THE AREA OF THE CIRCLE IS ; %f \n",area);
-    printf("THE CIRCUMFERENCE OF THE CIRCLE IS  : %f \n",cir);
+    printf("THE CIRCUMFERENCE OF THE CIRCLE I  : %f \n",cir);
     return 0;
 }
